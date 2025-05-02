@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/UnrelatedString/distortion-discord-js/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/UnrelatedString/distortion-discord-js/actions/workflows/ci.yml)
 ![Latest Version Tag](https://img.shields.io/github/v/tag/UnrelatedString/distortion-discord-js)
+![NPM Version](https://img.shields.io/npm/v/create-distortion-app)
 [![Pursuit](https://pursuit.purescript.org/packages/purescript-distortion-discord-js/badge?)](https://pursuit.purescript.org/packages/purescript-distortion-discord-js)
 
 Node runner for [`distortion`](https://github.com/UnrelatedString/distortion) using [discord.js](https://github.com/discordjs/discord.js) to interface with the Discord API.

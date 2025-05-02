@@ -1,6 +1,6 @@
 package:
-  name: my-purescript-template
-  description: Stuff I like to not copy paste whenever I start a new project. Not a real package.
+  name: distortion-discord-js
+  description: Node runner for Distortion using discord.js
   dependencies:
     - prelude: ">=6.0.2 <7.0.0"
   test:
