@@ -1,9 +1,16 @@
-# my-purescript-template
-Just a couple things it would be nice not to have to copy so much for new projects!
+# purescript-distortion-discord-js
 
-Note to others: this includes a non-version-locked link to my personalized Spec reporter which is liable to change at any time. (As well as my public key.) I'm leaving this repository public in case anyone might find it instructive, but I would recommend forking it and forking or otherwise replacing my Spec reporter rather than directly using it as a template for your own projects.
+[![CI](https://github.com/UnrelatedString/distortion-discord-js/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/UnrelatedString/distortion-discord-js/actions/workflows/ci.yml)
+![Latest Version Tag](https://img.shields.io/github/v/tag/UnrelatedString/distortion-discord-js)
+[![Pursuit](https://pursuit.purescript.org/packages/purescript-distortion-discord-js/badge?)](https://pursuit.purescript.org/packages/purescript-distortion-discord-js)
 
-Badges to edit for if the project happens to be a library:
+Node runner for [`distortion`](https://github.com/UnrelatedString/distortion) using [discord.js](https://github.com/discordjs/discord.js) to interface with the Discord API.
+
+This repository also contains the `create-distortion-app` `npm init` template for Discord applications built on `distortion` and `distortion-discord-js`. To get started writing an application, run:
+
+```sh
+npm init distortion-app
+```
 
 ```markdown
 [![CI](https://github.com/UnrelatedString/purescript- [PROJECT NAME] /actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/UnrelatedString/purescript- [PROJECT NAME] /actions/workflows/ci.yml)
